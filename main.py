@@ -2,8 +2,8 @@
 import time
 
 # Displaying the instructions
-print("Please answer the following questions with a number from 0 to 3, where")
-print("0 = not at all, 1 = several days, 2 = more than half the days, and 3 = nearly every day.\n")
+print("Welcome to the depression detection test")
+print('Please answer the following questions using a scale of 0 to 3, where 0 = Never, 1 = Several days, 2 = half the days or more, 3 = Almost every day.\n")
 
 # Declaring the score variable
 score = 0
