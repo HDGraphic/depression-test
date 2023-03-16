@@ -1,4 +1,4 @@
-#looping the question and checking for invalid answers
+#Looping the question and checking for invalid answers
 for question in questions:
     print(question)
     answer = input("Enter your answer (0-3): ")
