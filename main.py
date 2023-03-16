@@ -7,3 +7,6 @@ print('Please answer the following questions using a scale of 0 to 3, where 0 = 
 
 # Declaring the score variable
 score = 0
+      
+# Calculate the total score
+score = sum(answers)
